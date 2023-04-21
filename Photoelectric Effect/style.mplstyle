@@ -1,0 +1,15 @@
+# Credit to Sarah Webster
+font.size : 12
+lines.linewidth : 3.0
+savefig.facecolor : white
+axes.labelsize :16
+xtick.direction : in
+xtick.top : True
+xtick.minor.visible : True
+ytick.direction : in
+ytick.right : True
+ytick.minor.visible : True
+figure.figsize: 9, 9
+
+
+
